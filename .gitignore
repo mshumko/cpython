@@ -30,7 +30,6 @@ __pycache__
 tags
 TAGS
 .vs/
-.vscode/
 gmon.out
 .coverage
 .mypy_cache/
